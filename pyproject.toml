@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "envutil"
-version = "0.2.3"
+version = "0.2.4"
 description = ""
 authors = ["Berke Arslan <berke@kwilabs.com>"]
 readme = "README.md"
